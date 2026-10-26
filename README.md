@@ -1,6 +1,6 @@
 <div align="center">
 
-# Digital Clock
+# Analog Clock
 
 **A lightweight digital clock built with HTML, CSS, and JavaScript.**
 
